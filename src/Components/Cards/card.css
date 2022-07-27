@@ -1,0 +1,12 @@
+.buttonCard{
+    background-color: palevioletred;
+    color: black;
+    border: palevioletred;
+}
+
+.buttonCard:hover{
+    background-color: whitesmoke;
+}
+button{
+    background-color: palevioletred;
+}
