@@ -20,7 +20,7 @@ const FooterApp = () => {
                 </div>
             </div>
             <div className="row line-footer m-0 p-3 text-center text-white">
-                <small> © 2022 <b>Mariana Palma Rodriguez</b> - copyright</small>
+                <small> © 2022 <b>Mariana Palma Rodríguez</b> - copyright</small>
             </div>
         </div>
     )

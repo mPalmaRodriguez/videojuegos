@@ -3,4 +3,10 @@
     border-radius: 80%;
     margin-right: 12px;
     margin-left: 5px;
+}.links:hover{
+    background-color: palevioletred;
+}
+.img{
+    margin-right: 10px;
+    margin-bottom: 1px;
 }
