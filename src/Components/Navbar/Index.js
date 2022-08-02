@@ -1,6 +1,7 @@
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import logoNav from '../Assets/img/navlogo.webp';
+
 import './navbar.css';
 
 const NavbarApp = () => {
@@ -13,9 +14,9 @@ const NavbarApp = () => {
                 ></img>
                 Videojuegos</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
-            <Navbar.Collapse id="basic-navbar-nav" style={{paddingLeft:"400px"}}>
+            <Navbar.Collapse id="basic-navbar-nav" style={{paddingLeft:"350px"}}>
                 <Nav className="me-auto">
-                    <Nav.Link  className='links' href="#home">INICIO</Nav.Link>
+                    <Nav.Link  className='links' href="#">INICIO</Nav.Link>
                     <Nav.Link  className='links' href="#link">CAPITULO</Nav.Link>
                     <Nav.Link className='links' href="#link">PERSONAJES</Nav.Link>
                     <Nav.Link className='links' href="#link">PLANETAS</Nav.Link>
